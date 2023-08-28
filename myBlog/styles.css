@@ -22,4 +22,7 @@
 .date{
     color: gray;
     font-size: .6rem;
+    text-align: end;
+    padding: 20px;
+
 }
